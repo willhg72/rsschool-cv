@@ -1,9 +1,9 @@
 
 ### William A., Hernández G. 
 ### __Contact Info:__ 
-Email: *william.hernandez@gmail.com*
-Whatsapp : *+58 416 7133878.*
-Twitter: *@willhg*
+- Email: *william.hernandez@gmail.com*
+- Whatsapp : *+58 416 7133878.*
+- Twitter: *@willhg*
 
 
 ### __Summary:__
