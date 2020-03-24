@@ -1,19 +1,20 @@
 
-1. ### * William A., Hernández G. * 
-2.  Email: *william.hernandez@gmail.com*
+### William A., Hernández G. 
+### __Contact Info:__ 
+    Email: *william.hernandez@gmail.com*
     Whatsapp : *+58 416 7133878.*
     Twitter: *@willhg*
 
 
-3. ### __Summary:__
-    I want to be a *__great__*, *__very good__* and *__very proficient__* Fullstack JS developer and start to work as a remote developer, I want to learn __*ReactJS*__ and __*Node.js*__, __*c#*__, __*Python*__ and __*GOlang*__ for the back end. 
+### __Summary:__
+   I want to be a *__great__*, *__very good__* and *__very proficient__* Fullstack JS developer and start to work as a remote developer, I want to learn __*ReactJS*__ and __*Node.js*__, __*c#*__, __*Python*__ and __*GOlang*__ for the back end. 
 
     I want to travel around the world helping others developers and knowledging theirs culture, I want to be a Digital nomad.
 
-4. ### __Skills:__
+### __Skills:__
     A logic, an accountable, proficient y easy going person, starting learning vanilla JS, and with a Strong Communication skills.   
 
-5. ### __Code examples:__
+### __Code examples:__
 
         ``` javascript
 
@@ -61,16 +62,16 @@
         ```
 
 
-6. ### __Experience__:
+### __Experience__:
 
     I was a backend C# developer since 1996 to 2005, then I became a project leader and then a project manager until 2016, I've been an IT recruiter since then. The last year I decided to restart as a programmer and I started to learn Javascript using the freecodecamp plattaform  https://www.freecodecamp.org/willhg  where I've completed the Algorhitms and data structures module last febrary. I have a srtong communication skills, and a technology background for almost 20 years, but now I am learning JS, I want to keep learning and taken this challences and improving my programming skills.   
 
-7. ## __Education__:
+### __Education__:
   
     I have a __*Computer Analyst Technitian*__ grade and a Freecodecamp __*Algorhitms and Data Structures with  JS*__ certification. https://www.freecodecamp.org/certification/willhg/javascript-algorithms-and-data-structures 
 
 
-8. ##  __English:__
+###  __English:__
 
     I've lived in trinidad and Tobago for a year learning English and I have and Intermediate level of proficiency.
 
